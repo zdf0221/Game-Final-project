@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "b7e08a76-1e2b-4c59-bb81-d0c567540178",
+            "Value": {
+                "id": "55a6ae29-48d9-4688-95fd-05af97bc97b1",
+                "resourcePath": "sprites\/spHouse\/spHouse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bc6d12ff-a615-409b-bb9b-f11e7990fa8b",
             "Value": {
                 "id": "a9be58cd-bf10-463f-b1c3-d71853ada4e5",
