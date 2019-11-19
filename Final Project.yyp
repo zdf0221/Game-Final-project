@@ -58,7 +58,7 @@
             "Key": "1c240489-4a78-4d44-ac12-dfd725bd5f48",
             "Value": {
                 "id": "6c5e9b83-6e65-4136-867a-f0293802ddf8",
-                "resourcePath": "objects\\oTrap\\oTrap.yy",
+                "resourcePath": "objects\\oYellowBlock\\oYellowBlock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "6f0b1643-31c5-4292-94de-9493c54ebe09",
             "Value": {
                 "id": "7c28172a-b02f-4c59-b683-190a6506a76f",
-                "resourcePath": "objects\/oTrap1\/oTrap1.yy",
+                "resourcePath": "objects\\oTrap\\oTrap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "f2fb97a1-5ff3-42b4-bda9-b8785171279b",
+            "Value": {
+                "id": "c045efae-9198-4792-a258-112c07a6c20d",
+                "resourcePath": "views\\f2fb97a1-5ff3-42b4-bda9-b8785171279b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f3a6ae0a-536d-429c-b150-acb62cd82513",
             "Value": {
                 "id": "f0bef478-708f-4ec7-9f32-82643d2465a5",
@@ -460,14 +468,6 @@
                 "id": "83ee0fc7-20f8-4726-b67c-3b4911da2cf6",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f5005433-2eda-4194-a80b-d2c7eca5f544",
-            "Value": {
-                "id": "d2d6091f-8439-4791-8ba7-bd426e5c6199",
-                "resourcePath": "views\/f5005433-2eda-4194-a80b-d2c7eca5f544.yy",
-                "resourceType": "GMFolder"
             }
         },
         {

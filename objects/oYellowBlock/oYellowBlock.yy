@@ -1,8 +1,8 @@
 {
-    "id": "6f0b1643-31c5-4292-94de-9493c54ebe09",
+    "id": "1c240489-4a78-4d44-ac12-dfd725bd5f48",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTrap1",
+    "name": "oYellowBlock",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6c2c9150-69ab-4907-9899-3310200d0e18",
+    "spriteId": "46945db8-91e2-45dd-9b96-a93b070b791d",
     "visible": true
 }
