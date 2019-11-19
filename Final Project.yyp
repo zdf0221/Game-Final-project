@@ -338,7 +338,7 @@
             "Key": "cd139733-c3a0-4bb5-9158-a2e211e0b2c3",
             "Value": {
                 "id": "a6f2824c-429f-4b9d-9363-c12989c51fdc",
-                "resourcePath": "objects\/oSurface1\/oSurface1.yy",
+                "resourcePath": "objects\\oSurface\\oSurface.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -12,7 +12,7 @@ key_jump = keyboard_check_pressed(vk_space);
 
 var jumpable = 0;
 
-if(place_meeting(x, y + 1, oSurface7) or place_meeting(x, y + 1, oSurface8) or place_meeting(x, y + 1, oSurface9)) 
+if(place_meeting(x, y + 1, oSurface)) 
 	jumpable = 1;
 
 globalvar xState;// -1 for left. 1 for right. 0 for no moves on x-axis.
@@ -23,8 +23,8 @@ xState = key_right - key_left;
 
 var xHorizontal = xState * walkSpeed;
 
-if(place_meeting(x + xHorizontal, y, oSurface8)) {
-	while(!place_meeting(x + xState, y, oSurface8)) { 
+if(place_meeting(x + xHorizontal, y, oSurface)) {
+	while(!place_meeting(x + xState, y, oSurface)) { 
 		x += xState;
 	}
 	xHorizontal = 0;
@@ -39,8 +39,8 @@ if(jumpable && key_jump)
 
 ySpeed += grav;
 
-if(place_meeting(x, y + ySpeed, oSurface8)) {
-	while(!place_meeting(x, y + sign(ySpeed), oSurface8)) {
+if(place_meeting(x, y + ySpeed, oSurface)) {
+	while(!place_meeting(x, y + sign(ySpeed), oSurface)) {
 		y += sign(ySpeed);
 	}
 	ySpeed = 0;

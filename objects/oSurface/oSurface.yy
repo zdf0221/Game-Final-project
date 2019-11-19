@@ -2,7 +2,7 @@
     "id": "cd139733-c3a0-4bb5-9158-a2e211e0b2c3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oSurface1",
+    "name": "oSurface",
     "eventList": [
         {
             "id": "40ca738e-151f-4b03-8211-73c769247eb4",
