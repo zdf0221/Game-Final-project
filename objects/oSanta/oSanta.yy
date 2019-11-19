@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSanta",
     "eventList": [
-        
+        {
+            "id": "ae02d0ef-4b8a-4cb4-8eb9-377c9b709c99",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "5e580930-fe55-465c-a16c-932a403535d3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
