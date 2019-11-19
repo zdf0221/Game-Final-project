@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "7ee8c8fd-3465-4d64-bd99-e3d74a4cb32b",
+            "Value": {
+                "id": "1e4799f6-fd66-435b-abce-2ac5804086fd",
+                "resourcePath": "fonts\\TimerFont\\TimerFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "83927ed8-e635-4b85-8f8c-66dc883122a1",
             "Value": {
                 "id": "7ce656a7-302c-4aad-b6f9-7cfd7fa21100",
