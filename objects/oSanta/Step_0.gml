@@ -14,6 +14,11 @@ var jumpable = 0;
 
 if(place_meeting(x, y + 1, oSurface)) 
 	jumpable = 1;
+	
+if(place_meeting(x, y + 1, oTrap)) {
+	effect_create_above(ef_explosion, x, y, 1, c_red); // explosion
+	ySpeed = -12;
+}
 
 globalvar xState;// -1 for left. 1 for right. 0 for no moves on x-axis.
 

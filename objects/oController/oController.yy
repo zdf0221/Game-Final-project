@@ -1,28 +1,28 @@
 {
-    "id": "5e580930-fe55-465c-a16c-932a403535d3",
+    "id": "a5b6aa00-6591-4365-b192-80a570d40cae",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oSanta",
+    "name": "oController",
     "eventList": [
         {
-            "id": "8d7b9127-e1ca-4eb3-9c13-f42d56a4f0d9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "5e580930-fe55-465c-a16c-932a403535d3"
-        },
-        {
-            "id": "8a4bbd93-6e44-40fa-93de-800f55c1a3dc",
+            "id": "798fb715-4bef-4fa1-a84b-63939a28d3c1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5e580930-fe55-465c-a16c-932a403535d3"
+            "m_owner": "a5b6aa00-6591-4365-b192-80a570d40cae"
+        },
+        {
+            "id": "be58a2d6-8e9f-4581-bc38-26b7e2d345af",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a5b6aa00-6591-4365-b192-80a570d40cae"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,10 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "14ccc20b-8196-47d3-9535-02085b9ac2de",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
