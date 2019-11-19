@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oSurface1",
     "eventList": [
-        
+        {
+            "id": "40ca738e-151f-4b03-8211-73c769247eb4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cd139733-c3a0-4bb5-9158-a2e211e0b2c3"
+        },
+        {
+            "id": "bdf5d76c-44c3-4e07-8331-2afb19728325",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "cd139733-c3a0-4bb5-9158-a2e211e0b2c3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a9008a59-1cea-4fa9-81a2-df6f595bbe39",
+    "spriteId": "b1b07fe3-77b7-4c9a-bc91-f5cc371a4acc",
     "visible": true
 }
