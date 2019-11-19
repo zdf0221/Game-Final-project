@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "50970084-dcb4-4787-a11b-9cda758cd7b6",
+            "Value": {
+                "id": "b652723f-fb4e-4b50-80d6-a35c94e4cba5",
+                "resourcePath": "sprites\/spBackgound\/spBackgound.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "53e100a6-54e7-4de5-b03a-037eec47a9bf",
             "Value": {
                 "id": "6f7ba27b-b6c2-412d-8f2c-32c515a4c9d3",
