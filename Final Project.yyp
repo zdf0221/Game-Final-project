@@ -47,10 +47,10 @@
             }
         },
         {
-            "Key": "1bb9fe09-d3ab-440c-9579-83844f1e3acf",
+            "Key": "14ccc20b-8196-47d3-9535-02085b9ac2de",
             "Value": {
-                "id": "c26d8237-d790-430e-9277-f5ad2ec587f1",
-                "resourcePath": "sprites\/sprite0\/sprite0.yy",
+                "id": "103323b1-4c18-433f-9873-61d7d88fa2ef",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -84,6 +84,14 @@
                 "id": "b7932dec-b27a-44ee-ae1f-6a3775c7bb58",
                 "resourcePath": "views\/5c69ce24-48a9-4e68-b013-4f1c06ff39b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e580930-fe55-465c-a16c-932a403535d3",
+            "Value": {
+                "id": "4b900bf8-3ec0-44cd-9f1d-3dcfc6c2fdb5",
+                "resourcePath": "objects\\oSanta\\oSanta.yy",
+                "resourceType": "GMObject"
             }
         },
         {
