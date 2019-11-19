@@ -82,7 +82,7 @@
             "Key": "1c240489-4a78-4d44-ac12-dfd725bd5f48",
             "Value": {
                 "id": "6c5e9b83-6e65-4136-867a-f0293802ddf8",
-                "resourcePath": "objects\/oTrap\/oTrap.yy",
+                "resourcePath": "objects\\oTrap\\oTrap.yy",
                 "resourceType": "GMObject"
             }
         },
