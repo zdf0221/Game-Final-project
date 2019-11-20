@@ -17,12 +17,19 @@ if(place_meeting(x, y + 1, oSurface))
 	
 if(place_meeting(x, y + 1, oTrap)) {
 	effect_create_above(ef_explosion, x, y, 1, c_red); // explosion
+	time_remains -= 10;
 	ySpeed = -12;
 }
 
 globalvar xState;// -1 for left. 1 for right. 0 for no moves on x-axis.
 
 xState = key_right - key_left;
+if (xState == -1) {
+	image_index = 1;
+}
+if (xState == 1) {
+	image_index = 0;
+}
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 
