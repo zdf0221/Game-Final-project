@@ -17,6 +17,7 @@ if(place_meeting(x, y + 1, oSurface))
 	
 if(place_meeting(x, y + 1, oTrap)) {
 	effect_create_above(ef_explosion, x, y, 1, c_red); // explosion
+	time_remains -= 10;
 	ySpeed = -12;
 }
 

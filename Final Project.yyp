@@ -103,11 +103,11 @@
             }
         },
         {
-            "Key": "37d53875-1aa4-4f48-8d4e-fe6e8b9c92af",
+            "Key": "37ecb32d-9fdf-419f-8a16-52310464d6bd",
             "Value": {
-                "id": "6bec11aa-f302-4a33-b821-0fb4afeddea6",
-                "resourcePath": "sprites\/spEarth3\/spEarth3.yy",
-                "resourceType": "GMSprite"
+                "id": "db5dadf7-51dd-4562-95ab-119d202c7fe7",
+                "resourcePath": "scripts\\GoToNextRoom\\GoToNextRoom.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -131,6 +131,14 @@
             "Value": {
                 "id": "5df2188e-c471-4c6b-bb28-fc771906b8e4",
                 "resourcePath": "sprites\/spNormal\/spNormal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c27b02c-8108-46c2-aeb1-ac94b1c64f57",
+            "Value": {
+                "id": "bc5930de-60a7-47b0-9f9a-538d877a8542",
+                "resourcePath": "sprites\\sButton\\sButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "94c0e492-a6c5-4b85-bc6d-7ef1674fd084",
+            "Value": {
+                "id": "5bf50b05-a725-419b-8928-0b3c44fa9571",
+                "resourcePath": "fonts\\buttonDefaultFont\\buttonDefaultFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a5b6aa00-6591-4365-b192-80a570d40cae",
             "Value": {
                 "id": "a1a8a33d-79e5-43a4-a6bd-3f1f6fd98a9a",
@@ -348,6 +364,14 @@
                 "id": "e68846b7-d7e6-4fe8-9efd-1bce161f90eb",
                 "resourcePath": "sprites\/spSurface1\/spSurface1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aba07ab8-212b-4a55-ae25-6bf04389cb54",
+            "Value": {
+                "id": "b2f12a97-8f0e-44ea-b6cc-89e9fe39af41",
+                "resourcePath": "objects\\oButton\\oButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -479,6 +503,14 @@
             }
         },
         {
+            "Key": "ef9e3192-d828-4476-bf4d-0bae43db042f",
+            "Value": {
+                "id": "ca817d26-eef2-485a-a3c5-f4e0d81a8360",
+                "resourcePath": "scripts\\buttonDefaultAction\\buttonDefaultAction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f1d7e6f7-8ad5-4770-9973-dfefc43c31fe",
             "Value": {
                 "id": "60f2a366-c1f7-4440-bc91-7d6824de51af",
@@ -528,7 +560,9 @@
         }
     ],
     "script_order": [
-        "740c449a-a6b4-47ea-9401-04a98732c838"
+        "740c449a-a6b4-47ea-9401-04a98732c838",
+        "ef9e3192-d828-4476-bf4d-0bae43db042f",
+        "37ecb32d-9fdf-419f-8a16-52310464d6bd"
     ],
     "tutorial": ""
 }
