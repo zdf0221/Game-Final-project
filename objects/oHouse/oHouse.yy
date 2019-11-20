@@ -1,8 +1,8 @@
 {
-    "id": "70b4b5ca-a9b1-496b-aa04-3a69a596d13d",
+    "id": "80ba3c88-d009-4124-a518-82053a70afa7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEarth3",
+    "name": "oHouse",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "18585ea4-6d22-4df4-af5f-b2d93dd39293",
+    "spriteId": "b7e08a76-1e2b-4c59-bb81-d0c567540178",
     "visible": true
 }
