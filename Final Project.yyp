@@ -58,7 +58,7 @@
             "Key": "1c240489-4a78-4d44-ac12-dfd725bd5f48",
             "Value": {
                 "id": "6c5e9b83-6e65-4136-867a-f0293802ddf8",
-                "resourcePath": "objects\\oYellowBlock\\oYellowBlock.yy",
+                "resourcePath": "objects\/oYellowBlock\/oYellowBlock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "6f0b1643-31c5-4292-94de-9493c54ebe09",
             "Value": {
                 "id": "7c28172a-b02f-4c59-b683-190a6506a76f",
-                "resourcePath": "objects\\oTrap\\oTrap.yy",
+                "resourcePath": "objects\/oTrap\/oTrap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "7ee8c8fd-3465-4d64-bd99-e3d74a4cb32b",
             "Value": {
                 "id": "1e4799f6-fd66-435b-abce-2ac5804086fd",
-                "resourcePath": "fonts\\TimerFont\\TimerFont.yy",
+                "resourcePath": "fonts\/TimerFont\/TimerFont.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "89d001bf-f2fd-4bfa-8c31-bbe57073e89d",
             "Value": {
                 "id": "d5cd059d-38a7-4fe9-b132-3b3dbfc6ab21",
-                "resourcePath": "views\\89d001bf-f2fd-4bfa-8c31-bbe57073e89d.yy",
+                "resourcePath": "views\/89d001bf-f2fd-4bfa-8c31-bbe57073e89d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "91040c6f-4729-4ad7-86d8-0069d013c0ad",
+            "Value": {
+                "id": "d7342849-d417-4194-8051-40cf033753f8",
+                "resourcePath": "sprites\/spLevel\/spLevel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9142acfb-89a7-4070-aa20-9df04ab52906",
             "Value": {
                 "id": "44fd3632-c34e-44ed-809a-42be9128ee6b",
@@ -314,7 +322,7 @@
             "Key": "a5b6aa00-6591-4365-b192-80a570d40cae",
             "Value": {
                 "id": "a1a8a33d-79e5-43a4-a6bd-3f1f6fd98a9a",
-                "resourcePath": "objects\\oController\\oController.yy",
+                "resourcePath": "objects\/oController\/oController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -378,7 +386,7 @@
             "Key": "cd139733-c3a0-4bb5-9158-a2e211e0b2c3",
             "Value": {
                 "id": "a6f2824c-429f-4b9d-9363-c12989c51fdc",
-                "resourcePath": "objects\\oSurface\\oSurface.yy",
+                "resourcePath": "objects\/oSurface\/oSurface.yy",
                 "resourceType": "GMObject"
             }
         },
