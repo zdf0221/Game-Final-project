@@ -306,7 +306,7 @@
             "Key": "91040c6f-4729-4ad7-86d8-0069d013c0ad",
             "Value": {
                 "id": "d7342849-d417-4194-8051-40cf033753f8",
-                "resourcePath": "sprites\/spLevel\/spLevel.yy",
+                "resourcePath": "sprites\/spLevelBackground\/spLevelBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,6 +331,14 @@
             "Value": {
                 "id": "e68846b7-d7e6-4fe8-9efd-1bce161f90eb",
                 "resourcePath": "sprites\/spSurface1\/spSurface1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ab318641-b507-42b8-a01e-e758925489ed",
+            "Value": {
+                "id": "1fc1c6c0-d7e4-4f42-9f50-7d3253114edc",
+                "resourcePath": "sprites\/spLevel1\/spLevel1.yy",
                 "resourceType": "GMSprite"
             }
         },
