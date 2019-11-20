@@ -7,4 +7,4 @@ var vy = camera_get_view_y(view_camera[0]);
 draw_set_colour(c_maroon);
 draw_set_font(TimerFont);
 
-draw_text(vx + 5, vy + 5, "Time:" + string(time_remains));
+draw_text(vx + 50, vy + 16, "Time:" + string(time_remains));
