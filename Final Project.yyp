@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "37d53875-1aa4-4f48-8d4e-fe6e8b9c92af",
+            "Value": {
+                "id": "6bec11aa-f302-4a33-b821-0fb4afeddea6",
+                "resourcePath": "sprites\/spEarth3\/spEarth3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "402635fa-8fca-41ff-a9a4-d95456fc5474",
             "Value": {
                 "id": "379f7dc3-0f2d-4bc1-aa27-b79d6469fffe",
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "70b4b5ca-a9b1-496b-aa04-3a69a596d13d",
+            "Value": {
+                "id": "1b79d806-7c3d-476a-98ab-9f4276d6d631",
+                "resourcePath": "objects\/oEarth3\/oEarth3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "740c449a-a6b4-47ea-9401-04a98732c838",
             "Value": {
                 "id": "6d8cc87d-a8e8-4601-8e52-8bc0b03f8bd7",
@@ -250,7 +266,7 @@
             "Key": "7ee8c8fd-3465-4d64-bd99-e3d74a4cb32b",
             "Value": {
                 "id": "1e4799f6-fd66-435b-abce-2ac5804086fd",
-                "resourcePath": "fonts\\TimerFont\\TimerFont.yy",
+                "resourcePath": "fonts\/TimerFont\/TimerFont.yy",
                 "resourceType": "GMFont"
             }
         },
