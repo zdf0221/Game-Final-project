@@ -418,7 +418,7 @@
             "Key": "b6a23824-36d5-4e8d-b83d-fc8617e4717a",
             "Value": {
                 "id": "0ea3d181-66f7-4aeb-aa52-24a7c0c05816",
-                "resourcePath": "scripts\\respawn\\respawn.yy",
+                "resourcePath": "scripts\/respawn\/respawn.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -428,6 +428,14 @@
                 "id": "55a6ae29-48d9-4688-95fd-05af97bc97b1",
                 "resourcePath": "sprites\/spHouse\/spHouse.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b99ebb84-e773-4a94-bb04-bda6f3a7fb47",
+            "Value": {
+                "id": "7276155b-5554-40d6-8573-b50838417a48",
+                "resourcePath": "rooms\/room2\/room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
