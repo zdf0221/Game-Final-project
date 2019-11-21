@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "461e579b-d732-4c4d-adba-72965db9d3d6",
+            "Value": {
+                "id": "c7823add-bc5a-41f7-8d8e-4d34cb77df01",
+                "resourcePath": "sprites\/spAbout\/spAbout.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "46945db8-91e2-45dd-9b96-a93b070b791d",
             "Value": {
                 "id": "5df2188e-c471-4c6b-bb28-fc771906b8e4",
@@ -260,6 +268,14 @@
                 "id": "1b79d806-7c3d-476a-98ab-9f4276d6d631",
                 "resourcePath": "objects\/oEarth3\/oEarth3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7223feee-e4ef-450a-a0c3-0569d37e75d0",
+            "Value": {
+                "id": "bfec19f5-46e7-462a-993d-fd985b038fae",
+                "resourcePath": "sprites\/spLevel01\/spLevel01.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -418,7 +434,7 @@
             "Key": "b6a23824-36d5-4e8d-b83d-fc8617e4717a",
             "Value": {
                 "id": "0ea3d181-66f7-4aeb-aa52-24a7c0c05816",
-                "resourcePath": "scripts\\respawn\\respawn.yy",
+                "resourcePath": "scripts\/respawn\/respawn.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -580,6 +596,14 @@
                 "id": "83ee0fc7-20f8-4726-b67c-3b4911da2cf6",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f9f05992-7a69-4437-b9c9-1f12c4a0efa3",
+            "Value": {
+                "id": "5cdba7a9-f45c-4646-b701-6c415e3e52d6",
+                "resourcePath": "sprites\/spTitleBackground\/spTitleBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
