@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "51f81b19-1991-45de-90ba-da56492af146",
+            "Value": {
+                "id": "d533547c-1913-4fd8-8eb8-9b3da3b9e462",
+                "resourcePath": "rooms\/firstScene\/firstScene.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "53e100a6-54e7-4de5-b03a-037eec47a9bf",
             "Value": {
                 "id": "6f7ba27b-b6c2-412d-8f2c-32c515a4c9d3",
