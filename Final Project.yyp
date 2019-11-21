@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "18585ea4-6d22-4df4-af5f-b2d93dd39293",
+            "Value": {
+                "id": "ed5303ca-208b-4083-bd41-ac8cae5ee6a2",
+                "resourcePath": "sprites\/spEarth4\/spEarth4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c240489-4a78-4d44-ac12-dfd725bd5f48",
             "Value": {
                 "id": "6c5e9b83-6e65-4136-867a-f0293802ddf8",
@@ -106,7 +114,7 @@
             "Key": "37ecb32d-9fdf-419f-8a16-52310464d6bd",
             "Value": {
                 "id": "db5dadf7-51dd-4562-95ab-119d202c7fe7",
-                "resourcePath": "scripts\\GoToNextRoom\\GoToNextRoom.yy",
+                "resourcePath": "scripts\/GoToNextRoom\/GoToNextRoom.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -138,7 +146,7 @@
             "Key": "4c27b02c-8108-46c2-aeb1-ac94b1c64f57",
             "Value": {
                 "id": "bc5930de-60a7-47b0-9f9a-538d877a8542",
-                "resourcePath": "sprites\\sButton\\sButton.yy",
+                "resourcePath": "sprites\/sButton\/sButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "70b4b5ca-a9b1-496b-aa04-3a69a596d13d",
+            "Value": {
+                "id": "1b79d806-7c3d-476a-98ab-9f4276d6d631",
+                "resourcePath": "objects\/oEarth3\/oEarth3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "740c449a-a6b4-47ea-9401-04a98732c838",
             "Value": {
                 "id": "6d8cc87d-a8e8-4601-8e52-8bc0b03f8bd7",
@@ -268,6 +284,14 @@
                 "id": "1e4799f6-fd66-435b-abce-2ac5804086fd",
                 "resourcePath": "fonts\/TimerFont\/TimerFont.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "80ba3c88-d009-4124-a518-82053a70afa7",
+            "Value": {
+                "id": "dc0c1235-fe0d-4a8a-8d3c-81667ae39cba",
+                "resourcePath": "objects\/oHouse\/oHouse.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "8bd070ff-aa2a-4270-8838-6c97a526e72f",
+            "Value": {
+                "id": "c4ec4c79-1f3c-45ed-b845-c40b46b93e90",
+                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8eda47a0-b895-4d8d-b9d2-ec09dc5c4aed",
             "Value": {
                 "id": "365975f2-e75a-49b5-8e9a-aa98cfabf4eb",
@@ -338,7 +370,7 @@
             "Key": "94c0e492-a6c5-4b85-bc6d-7ef1674fd084",
             "Value": {
                 "id": "5bf50b05-a725-419b-8928-0b3c44fa9571",
-                "resourcePath": "fonts\\buttonDefaultFont\\buttonDefaultFont.yy",
+                "resourcePath": "fonts\/buttonDefaultFont\/buttonDefaultFont.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -362,7 +394,7 @@
             "Key": "aba07ab8-212b-4a55-ae25-6bf04389cb54",
             "Value": {
                 "id": "b2f12a97-8f0e-44ea-b6cc-89e9fe39af41",
-                "resourcePath": "objects\\oButton\\oButton.yy",
+                "resourcePath": "objects\/oButton\/oButton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -380,6 +412,14 @@
                 "id": "caa72335-39f0-46c2-9142-64b5fc1a378d",
                 "resourcePath": "sprites\/spSurface8\/spSurface8.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6a23824-36d5-4e8d-b83d-fc8617e4717a",
+            "Value": {
+                "id": "0ea3d181-66f7-4aeb-aa52-24a7c0c05816",
+                "resourcePath": "scripts\\respawn\\respawn.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -498,7 +538,7 @@
             "Key": "ef9e3192-d828-4476-bf4d-0bae43db042f",
             "Value": {
                 "id": "ca817d26-eef2-485a-a3c5-f4e0d81a8360",
-                "resourcePath": "scripts\\buttonDefaultAction\\buttonDefaultAction.yy",
+                "resourcePath": "scripts\/buttonDefaultAction\/buttonDefaultAction.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -554,7 +594,8 @@
     "script_order": [
         "740c449a-a6b4-47ea-9401-04a98732c838",
         "ef9e3192-d828-4476-bf4d-0bae43db042f",
-        "37ecb32d-9fdf-419f-8a16-52310464d6bd"
+        "37ecb32d-9fdf-419f-8a16-52310464d6bd",
+        "b6a23824-36d5-4e8d-b83d-fc8617e4717a"
     ],
     "tutorial": ""
 }
