@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oGift",
     "eventList": [
-        
+        {
+            "id": "b53548f6-924e-4869-882e-eebd4ccddf8f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d624d29d-c4c3-4236-857d-444fae7e8967"
+        },
+        {
+            "id": "105f1ebe-3b4b-4aad-99e7-ea5178180671",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "5e580930-fe55-465c-a16c-932a403535d3",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "d624d29d-c4c3-4236-857d-444fae7e8967"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
