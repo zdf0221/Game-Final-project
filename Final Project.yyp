@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "4a3b5e44-63a5-4994-ac66-cd0435908c09",
+            "Value": {
+                "id": "a5b4dfa5-de58-429e-b8b4-c848df7c7a7d",
+                "resourcePath": "sprites\/spSnowSmall\/spSnowSmall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c27b02c-8108-46c2-aeb1-ac94b1c64f57",
             "Value": {
                 "id": "bc5930de-60a7-47b0-9f9a-538d877a8542",
@@ -491,6 +499,14 @@
             "Value": {
                 "id": "ca557644-cc53-4415-a541-01e572b2f405",
                 "resourcePath": "sprites\/spEarth2\/spEarth2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4a660bc-8158-4764-8e2f-afc89fcd181c",
+            "Value": {
+                "id": "70712e73-3177-4724-b8d4-929a5c2c1d16",
+                "resourcePath": "sprites\/spSnowMedium\/spSnowMedium.yy",
                 "resourceType": "GMSprite"
             }
         },
