@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "91040c6f-4729-4ad7-86d8-0069d013c0ad",
+            "Value": {
+                "id": "d7342849-d417-4194-8051-40cf033753f8",
+                "resourcePath": "sprites\/spLevelBackground\/spLevelBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9142acfb-89a7-4070-aa20-9df04ab52906",
             "Value": {
                 "id": "44fd3632-c34e-44ed-809a-42be9128ee6b",
