@@ -3,13 +3,13 @@
 if(gamePaused == 0) {
 	instance_deactivate_all(true);
 	gamePaused = 1;
-	menuButton = instance_create_depth(200, 100, 0, oButton);
+	menuButton = instance_create_depth(x - 500, y + 200, 0, oButton);
 	menuButton.buttonText = "Menu";
 	menuButton.onClickAction = MainMenu;
-	restartButton = instance_create_depth(300, 200, -1, oButton);
+	restartButton = instance_create_depth(x - 500, y + 350, -1, oButton);
 	restartButton.buttonText = "Restart";
 	restartButton.onClickAction = restartRoom;
-	quitButton = instance_create_depth(500, 200, -1, oButton);
+	quitButton = instance_create_depth(x - 500, y + 500, -1, oButton);
 	quitButton.buttonText = "Quit";
 	quitButton.onClickAction = Exit;
 }
