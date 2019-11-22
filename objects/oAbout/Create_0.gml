@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_sprite(spAboutRing,0,0,0)
+
+path_start(PathAbout, 1.75, path_action_restart, 0);

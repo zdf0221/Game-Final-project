@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "133e5687-45bd-4db1-8e46-c27cf4332cab",
+            "Value": {
+                "id": "a22ed95d-4ee7-486d-90d1-291973cf6621",
+                "resourcePath": "scripts\\GoLevelRoom\\GoLevelRoom.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "14ccc20b-8196-47d3-9535-02085b9ac2de",
             "Value": {
                 "id": "103323b1-4c18-433f-9873-61d7d88fa2ef",
@@ -234,7 +242,7 @@
             "Key": "407bb8c0-044e-4fec-8884-bade04e7c81e",
             "Value": {
                 "id": "493d5c89-77ac-4ae6-ae04-58c800f9bc53",
-                "resourcePath": "paths\/path0\/path0.yy",
+                "resourcePath": "paths\\PathAbout\\PathAbout.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -1006,7 +1014,8 @@
         "b6a23824-36d5-4e8d-b83d-fc8617e4717a",
         "6441204d-8ccb-4a18-86c6-ec18dd690112",
         "845dca13-ae79-4f06-bd41-1652289a2198",
-        "33079e3f-e08f-4882-8717-1d82c06ffaef"
+        "33079e3f-e08f-4882-8717-1d82c06ffaef",
+        "133e5687-45bd-4db1-8e46-c27cf4332cab"
     ],
     "tutorial": ""
 }
