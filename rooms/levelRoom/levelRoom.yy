@@ -1,6 +1,6 @@
 
 {
-    "name": "firstScene",
+    "name": "levelRoom",
     "id": "51f81b19-1991-45de-90ba-da56492af146",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -150,8 +150,8 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "50970084-dcb4-4787-a11b-9cda758cd7b6",
-            "stretch": false,
+            "spriteId": "91040c6f-4729-4ad7-86d8-0069d013c0ad",
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,

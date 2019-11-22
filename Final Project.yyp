@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "26758d6d-e6d8-4ada-9c5a-509edee1dffc",
+            "Value": {
+                "id": "42a7afbb-07df-4898-aa81-d66af3e9f2be",
+                "resourcePath": "objects\/oDeer\/oDeer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "26ff07a8-51d6-4ce3-b903-f94c86b24c28",
             "Value": {
                 "id": "ed6327d3-c01e-4019-acc9-5a84b34c642c",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "4951d145-b297-498a-a369-1caa54ed20dc",
+            "Value": {
+                "id": "e317dffa-deed-4d86-97db-cccf0348f888",
+                "resourcePath": "rooms\/title\/title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4a3b5e44-63a5-4994-ac66-cd0435908c09",
             "Value": {
                 "id": "a5b4dfa5-de58-429e-b8b4-c848df7c7a7d",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "4edb3910-6621-4e5a-ab5a-3f5f58af0211",
+            "Value": {
+                "id": "aea7c6e1-62ec-44b4-b571-9f71e73ad920",
+                "resourcePath": "objects\/oSantaTitle\/oSantaTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50970084-dcb4-4787-a11b-9cda758cd7b6",
             "Value": {
                 "id": "b652723f-fb4e-4b50-80d6-a35c94e4cba5",
@@ -186,7 +210,7 @@
             "Key": "51f81b19-1991-45de-90ba-da56492af146",
             "Value": {
                 "id": "d533547c-1913-4fd8-8eb8-9b3da3b9e462",
-                "resourcePath": "rooms\/firstScene\/firstScene.yy",
+                "resourcePath": "rooms\/levelRoom\/levelRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
