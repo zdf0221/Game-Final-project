@@ -186,7 +186,7 @@
             "Key": "33079e3f-e08f-4882-8717-1d82c06ffaef",
             "Value": {
                 "id": "c9f36527-3a98-461d-854f-2fa7dbba26ad",
-                "resourcePath": "scripts\\Exit\\Exit.yy",
+                "resourcePath": "scripts\/Exit\/Exit.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "331eb09d-d209-4b17-8857-37ece9808b51",
             "Value": {
                 "id": "a79a5013-6350-423c-8aa4-4a8b57d4b892",
-                "resourcePath": "sprites\\spLevelAboutFlag\\spLevelAboutFlag.yy",
+                "resourcePath": "sprites\/spLevelAboutFlag\/spLevelAboutFlag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "407bb8c0-044e-4fec-8884-bade04e7c81e",
+            "Value": {
+                "id": "493d5c89-77ac-4ae6-ae04-58c800f9bc53",
+                "resourcePath": "paths\/path0\/path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "436da62a-5950-43bd-8485-edaeb969649d",
             "Value": {
                 "id": "7fde69bf-f89f-4383-9bf3-0ff79ee2837d",
@@ -242,7 +250,7 @@
             "Key": "437ad123-0c40-4143-a655-b013b20229b4",
             "Value": {
                 "id": "f07de4c9-faa8-422f-9f92-ebe0956cb91c",
-                "resourcePath": "sprites\\spLevel2Flag\\spLevel2Flag.yy",
+                "resourcePath": "sprites\/spLevel2Flag\/spLevel2Flag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -378,7 +386,7 @@
             "Key": "5e943afd-33ad-4cb9-87a6-7471ae263247",
             "Value": {
                 "id": "61834351-f8d4-4965-824e-8eebeef26f2e",
-                "resourcePath": "sprites\\spLevel1Flag\\spLevel1Flag.yy",
+                "resourcePath": "sprites\/spLevel1Flag\/spLevel1Flag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -394,7 +402,7 @@
             "Key": "6441204d-8ccb-4a18-86c6-ec18dd690112",
             "Value": {
                 "id": "ec3d43e9-0ac0-45a4-8a7d-4d2de58a50d4",
-                "resourcePath": "scripts\\MainMenu\\MainMenu.yy",
+                "resourcePath": "scripts\/MainMenu\/MainMenu.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -546,7 +554,7 @@
             "Key": "845dca13-ae79-4f06-bd41-1652289a2198",
             "Value": {
                 "id": "25e4fb94-e385-412c-a8b5-9af1712702b2",
-                "resourcePath": "scripts\\restartRoom\\restartRoom.yy",
+                "resourcePath": "scripts\/restartRoom\/restartRoom.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -794,7 +802,7 @@
             "Key": "d26eba8e-cb74-4a61-8fef-1a584c8a0402",
             "Value": {
                 "id": "68ac8983-2e75-4221-aa9d-b3a76dced836",
-                "resourcePath": "sprites\\spLevel3Flag\\spLevel3Flag.yy",
+                "resourcePath": "sprites\/spLevel3Flag\/spLevel3Flag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -835,6 +843,14 @@
             "Value": {
                 "id": "70712e73-3177-4724-b8d4-929a5c2c1d16",
                 "resourcePath": "sprites\/spSnowMedium\/spSnowMedium.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4b556d4-de5e-4a5a-802d-e3921a5efe72",
+            "Value": {
+                "id": "888e85f0-d838-4a24-b76e-7df204cd8e83",
+                "resourcePath": "sprites\/spAboutFlag\/spAboutFlag.yy",
                 "resourceType": "GMSprite"
             }
         },

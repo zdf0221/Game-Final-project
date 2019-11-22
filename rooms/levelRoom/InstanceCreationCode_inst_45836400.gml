@@ -1,1 +1,1 @@
-flagName = spLevelAbFlag;
+flagName = spAboutFlag;
