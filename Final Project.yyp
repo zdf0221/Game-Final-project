@@ -303,14 +303,6 @@
             }
         },
         {
-            "Key": "537a5146-4c6e-4160-8cef-6a0645941cea",
-            "Value": {
-                "id": "f495f9e1-334b-4c72-b90f-24d565296783",
-                "resourcePath": "sprites\/spLevelAbFlag\/spLevelAbFlag.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "53e100a6-54e7-4de5-b03a-037eec47a9bf",
             "Value": {
                 "id": "6f7ba27b-b6c2-412d-8f2c-32c515a4c9d3",
