@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "771eba0f-d8f4-4748-93aa-2d4810f49690",
+            "Value": {
+                "id": "c9688edf-bf35-46a3-bdcf-a1203dd2dfef",
+                "resourcePath": "sprites\/spAboutRing\/spAboutRing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e7fc801-82a4-4082-a770-cd11fc920f28",
             "Value": {
                 "id": "05a4bfbc-5719-4651-a973-37fccde7a3f9",
