@@ -1,0 +1,11 @@
+block[0] = 0;
+block[1] = spSurface1;
+block[2] = spSurface2;
+block[3] = spSurface3;
+block[4] = spSurface4;
+block[5] = spSurface5;
+block[6] = spSurface6;
+block[7] = spSurface7;
+block[8] = spSurface8;
+block[9] = spSurface9;
+block[10] = spSurface10;
