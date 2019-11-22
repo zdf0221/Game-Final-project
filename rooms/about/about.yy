@@ -69,7 +69,7 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": -388,
+            "x": 0,
             "y": 0
         }
     ],
