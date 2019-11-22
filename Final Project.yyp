@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "331eb09d-d209-4b17-8857-37ece9808b51",
+            "Value": {
+                "id": "7a389c04-14e9-4e8f-82d9-0ad4db02ee19",
+                "resourcePath": "sprites\/spLevelAboutFlag\/spLevelAboutFlag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35430315-ea94-47f5-b332-da75e04e61f1",
             "Value": {
                 "id": "13f149ec-334b-4b2f-bd23-8c2ad5fb3fe4",
@@ -219,6 +227,14 @@
             "Value": {
                 "id": "379f7dc3-0f2d-4bc1-aa27-b79d6469fffe",
                 "resourcePath": "sprites\/spEarth1\/spEarth1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "437ad123-0c40-4143-a655-b013b20229b4",
+            "Value": {
+                "id": "35add0c8-8c57-4410-b826-9c6adcd538ea",
+                "resourcePath": "sprites\/spLevel2Flag\/spLevel2Flag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -332,6 +348,14 @@
                 "id": "4b900bf8-3ec0-44cd-9f1d-3dcfc6c2fdb5",
                 "resourcePath": "objects\/oSanta\/oSanta.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e943afd-33ad-4cb9-87a6-7471ae263247",
+            "Value": {
+                "id": "a0670233-103a-449b-b9cd-d4f50401473c",
+                "resourcePath": "sprites\/spLevel1Flag\/spLevel1Flag.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -660,6 +684,14 @@
                 "id": "31e4cf40-8540-4c50-a62f-069d981b3bda",
                 "resourcePath": "views\/ce316a86-0a17-4f23-bcee-341a119338cd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d26eba8e-cb74-4a61-8fef-1a584c8a0402",
+            "Value": {
+                "id": "d7b55622-f876-4494-9f28-51a637fdb622",
+                "resourcePath": "sprites\/spLevel3Flag\/spLevel3Flag.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
