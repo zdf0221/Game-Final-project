@@ -11,6 +11,8 @@ globalvar key_jump;
 key_jump = keyboard_check_pressed(vk_space);
 globalvar key_climb;
 key_climb = keyboard_check(vk_up);
+globalvar key_climb_down;
+key_climb_down = keyboard_check(vk_down);
 
 var jumpable = 0;
 var climbable = 0;
@@ -73,6 +75,12 @@ if (climbable && key_climb) {
 	climbing = 1;
 	self.image_index = 2;
 	ySpeed = -5;
+}
+
+if (climbable && key_climb_down) {
+	climbing = 1;
+	self.image_index = 2;
+	ySpeed = 5;
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////
