@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "501bcc58-5082-4871-bd47-9aea17180337",
+            "Value": {
+                "id": "4684f0e0-cd34-4845-8312-ed00236068d0",
+                "resourcePath": "objects\/oFlagT\/oFlagT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50970084-dcb4-4787-a11b-9cda758cd7b6",
             "Value": {
                 "id": "b652723f-fb4e-4b50-80d6-a35c94e4cba5",
