@@ -183,6 +183,22 @@
             }
         },
         {
+            "Key": "33079e3f-e08f-4882-8717-1d82c06ffaef",
+            "Value": {
+                "id": "c9f36527-3a98-461d-854f-2fa7dbba26ad",
+                "resourcePath": "scripts\\Exit\\Exit.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "331eb09d-d209-4b17-8857-37ece9808b51",
+            "Value": {
+                "id": "a79a5013-6350-423c-8aa4-4a8b57d4b892",
+                "resourcePath": "sprites\\spLevelAboutFlag\\spLevelAboutFlag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "360030ab-7763-4920-b6ff-67014116f608",
             "Value": {
                 "id": "80b9503f-2745-4e74-8ca3-3628624c49ac",
@@ -220,6 +236,14 @@
                 "id": "7fde69bf-f89f-4383-9bf3-0ff79ee2837d",
                 "resourcePath": "objects\/oPause\/oPause.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "437ad123-0c40-4143-a655-b013b20229b4",
+            "Value": {
+                "id": "f07de4c9-faa8-422f-9f92-ebe0956cb91c",
+                "resourcePath": "sprites\\spLevel2Flag\\spLevel2Flag.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,14 +335,6 @@
             }
         },
         {
-            "Key": "537a5146-4c6e-4160-8cef-6a0645941cea",
-            "Value": {
-                "id": "f495f9e1-334b-4c72-b90f-24d565296783",
-                "resourcePath": "sprites\/spLevelAbFlag\/spLevelAbFlag.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "53e100a6-54e7-4de5-b03a-037eec47a9bf",
             "Value": {
                 "id": "6f7ba27b-b6c2-412d-8f2c-32c515a4c9d3",
@@ -359,11 +375,27 @@
             }
         },
         {
+            "Key": "5e943afd-33ad-4cb9-87a6-7471ae263247",
+            "Value": {
+                "id": "61834351-f8d4-4965-824e-8eebeef26f2e",
+                "resourcePath": "sprites\\spLevel1Flag\\spLevel1Flag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "632aabb4-1ff1-4a5a-b5b1-008ec897a54a",
             "Value": {
                 "id": "43b7482e-28b3-48a2-a80a-41edfabb78a4",
                 "resourcePath": "sprites\/spStair3\/spStair3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6441204d-8ccb-4a18-86c6-ec18dd690112",
+            "Value": {
+                "id": "ec3d43e9-0ac0-45a4-8a7d-4d2de58a50d4",
+                "resourcePath": "scripts\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -455,6 +487,14 @@
             }
         },
         {
+            "Key": "771eba0f-d8f4-4748-93aa-2d4810f49690",
+            "Value": {
+                "id": "c9688edf-bf35-46a3-bdcf-a1203dd2dfef",
+                "resourcePath": "sprites\/spAboutRing\/spAboutRing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e7fc801-82a4-4082-a770-cd11fc920f28",
             "Value": {
                 "id": "05a4bfbc-5719-4651-a973-37fccde7a3f9",
@@ -500,6 +540,14 @@
                 "id": "7ce656a7-302c-4aad-b6f9-7cfd7fa21100",
                 "resourcePath": "views\/83927ed8-e635-4b85-8f8c-66dc883122a1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "845dca13-ae79-4f06-bd41-1652289a2198",
+            "Value": {
+                "id": "25e4fb94-e385-412c-a8b5-9af1712702b2",
+                "resourcePath": "scripts\\restartRoom\\restartRoom.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -743,6 +791,14 @@
             }
         },
         {
+            "Key": "d26eba8e-cb74-4a61-8fef-1a584c8a0402",
+            "Value": {
+                "id": "68ac8983-2e75-4221-aa9d-b3a76dced836",
+                "resourcePath": "sprites\\spLevel3Flag\\spLevel3Flag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d27093ba-1396-4a06-8ed9-8837d5b75dc5",
             "Value": {
                 "id": "3042ae18-d519-41b2-b9ff-45f616c89628",
@@ -931,7 +987,10 @@
         "740c449a-a6b4-47ea-9401-04a98732c838",
         "ef9e3192-d828-4476-bf4d-0bae43db042f",
         "37ecb32d-9fdf-419f-8a16-52310464d6bd",
-        "b6a23824-36d5-4e8d-b83d-fc8617e4717a"
+        "b6a23824-36d5-4e8d-b83d-fc8617e4717a",
+        "6441204d-8ccb-4a18-86c6-ec18dd690112",
+        "845dca13-ae79-4f06-bd41-1652289a2198",
+        "33079e3f-e08f-4882-8717-1d82c06ffaef"
     ],
     "tutorial": ""
 }
