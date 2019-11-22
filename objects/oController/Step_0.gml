@@ -3,5 +3,5 @@
 
 if (time_remains < 0) {
 	// time running out
-	room_goto(5);  //go to GameOver room
+	room_goto(gameOver);  //go to GameOver room
 }
