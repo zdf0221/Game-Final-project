@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "10057755-039d-43d1-a9bf-60d37b007412",
+            "Value": {
+                "id": "ad543332-d7bc-44e9-b40f-3583bba3188f",
+                "resourcePath": "timelines\\Snowflake\\Snowflake.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "1165dd08-7e0b-428f-b3b3-141c6a535010",
             "Value": {
                 "id": "bdf54846-69c4-4d11-8364-bb0b8a022f2b",
