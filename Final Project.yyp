@@ -58,7 +58,7 @@
             "Key": "10057755-039d-43d1-a9bf-60d37b007412",
             "Value": {
                 "id": "ad543332-d7bc-44e9-b40f-3583bba3188f",
-                "resourcePath": "timelines\\Snowflake\\Snowflake.yy",
+                "resourcePath": "timelines\/Snowflake\/Snowflake.yy",
                 "resourceType": "GMTimeline"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "133e5687-45bd-4db1-8e46-c27cf4332cab",
             "Value": {
                 "id": "a22ed95d-4ee7-486d-90d1-291973cf6621",
-                "resourcePath": "scripts\\GoLevelRoom\\GoLevelRoom.yy",
+                "resourcePath": "scripts\/GoLevelRoom\/GoLevelRoom.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "407bb8c0-044e-4fec-8884-bade04e7c81e",
             "Value": {
                 "id": "493d5c89-77ac-4ae6-ae04-58c800f9bc53",
-                "resourcePath": "paths\\PathAbout\\PathAbout.yy",
+                "resourcePath": "paths\/PathAbout\/PathAbout.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "7cddb5bb-8f40-48f1-a549-34bf4ddd0f70",
+            "Value": {
+                "id": "8de65ec2-ca5a-4be0-b12b-5b489c34030b",
+                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7e7fc801-82a4-4082-a770-cd11fc920f28",
             "Value": {
                 "id": "05a4bfbc-5719-4651-a973-37fccde7a3f9",
@@ -618,7 +626,7 @@
             "Key": "8bd070ff-aa2a-4270-8838-6c97a526e72f",
             "Value": {
                 "id": "c4ec4c79-1f3c-45ed-b845-c40b46b93e90",
-                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourcePath": "rooms\/room2\/room2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -746,7 +754,7 @@
             "Key": "b99ebb84-e773-4a94-bb04-bda6f3a7fb47",
             "Value": {
                 "id": "7276155b-5554-40d6-8573-b50838417a48",
-                "resourcePath": "rooms\/room2\/room2.yy",
+                "resourcePath": "rooms\/room3\/room3.yy",
                 "resourceType": "GMRoom"
             }
         },
