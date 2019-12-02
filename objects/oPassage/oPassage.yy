@@ -15,7 +15,7 @@
             "m_owner": "663f5804-238f-4214-a04d-70f2a4d9ed16"
         },
         {
-            "id": "a5a6e53f-87dd-4be9-a8d1-7d74094d5e81",
+            "id": "e0d83fe7-e93a-44b9-a48c-4596f4e7655e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "663f5804-238f-4214-a04d-70f2a4d9ed16"
         },
         {
-            "id": "4346cdcb-5e3c-4c2e-ad9e-05abeec4671d",
+            "id": "23949b65-498a-4271-8a91-c3c66f266069",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
