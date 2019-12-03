@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "65cb1756-7c7f-42ae-9843-d196e0893087",
+            "Value": {
+                "id": "e3ca7127-3d92-49a5-b299-e0bc1dbbc9dd",
+                "resourcePath": "sprites\/spGameWinBackground\/spGameWinBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "663f5804-238f-4214-a04d-70f2a4d9ed16",
             "Value": {
                 "id": "a25604cf-34e3-46c5-bec7-0e619b6be74d",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "93bbc024-d702-45f2-ba1e-d42d06f63296",
+            "Value": {
+                "id": "282b6b1f-011d-48fb-a93b-afa7867bed96",
+                "resourcePath": "sprites\/spGameOver1\/spGameOver1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94c0e492-a6c5-4b85-bc6d-7ef1674fd084",
             "Value": {
                 "id": "5bf50b05-a725-419b-8928-0b3c44fa9571",
@@ -731,6 +747,14 @@
             "Value": {
                 "id": "caa72335-39f0-46c2-9142-64b5fc1a378d",
                 "resourcePath": "sprites\/spSurface8\/spSurface8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b2e78e9f-927c-41f9-bf9a-5043c3db45b0",
+            "Value": {
+                "id": "0d85c1d1-f6fd-429f-ab66-02fd70dc5fe9",
+                "resourcePath": "sprites\/spGameWinKids\/spGameWinKids.yy",
                 "resourceType": "GMSprite"
             }
         },
