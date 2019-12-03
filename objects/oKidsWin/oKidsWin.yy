@@ -1,19 +1,10 @@
 {
-    "id": "80ba3c88-d009-4124-a518-82053a70afa7",
+    "id": "506e7b79-dff3-4e98-ba98-4406c15f32a8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oHouse",
+    "name": "oKidsWin",
     "eventList": [
-        {
-            "id": "bc130a08-db61-4019-824a-03025e9be7e8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 80,
-            "eventtype": 5,
-            "m_owner": "80ba3c88-d009-4124-a518-82053a70afa7"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b7e08a76-1e2b-4c59-bb81-d0c567540178",
+    "spriteId": "b2e78e9f-927c-41f9-bf9a-5043c3db45b0",
     "visible": true
 }
