@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "3d894a04-670b-458f-9529-4d64a7f22ba9",
+            "Value": {
+                "id": "6e48feb5-75de-4a83-a5cb-e159c0a03637",
+                "resourcePath": "rooms\/winRoom\/winRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "402635fa-8fca-41ff-a9a4-d95456fc5474",
             "Value": {
                 "id": "379f7dc3-0f2d-4bc1-aa27-b79d6469fffe",
@@ -347,6 +355,14 @@
             "Value": {
                 "id": "4684f0e0-cd34-4845-8312-ed00236068d0",
                 "resourcePath": "objects\/oFlagT\/oFlagT.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "506e7b79-dff3-4e98-ba98-4406c15f32a8",
+            "Value": {
+                "id": "67e09aaf-56d3-45d3-ae31-e9d722b0017e",
+                "resourcePath": "objects\/oKidsWin\/oKidsWin.yy",
                 "resourceType": "GMObject"
             }
         },
