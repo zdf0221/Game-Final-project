@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "5cf044d1-4622-46c7-afd3-e4c82a750ee1",
+            "Value": {
+                "id": "57c77efc-b733-4f0f-977b-875bac1a2b56",
+                "resourcePath": "sprites\/spBonusGift\/spBonusGift.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e580930-fe55-465c-a16c-932a403535d3",
             "Value": {
                 "id": "4b900bf8-3ec0-44cd-9f1d-3dcfc6c2fdb5",

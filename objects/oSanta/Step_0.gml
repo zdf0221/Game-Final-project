@@ -51,8 +51,8 @@ if (xState == 1) {
 
 var xHorizontal = xState * walkSpeed;
 
-if(place_meeting(x + xHorizontal, y, oSurface)) {
-	while(!place_meeting(x + xState, y, oSurface)) { 
+if(place_meeting(x + xHorizontal, y, oSurface) or place_meeting(x + xHorizontal, y, oEarth3)) {
+	while(!place_meeting(x + xState, y, oSurface) and (!place_meeting(x + xState, y, oEarth3))) { 
 		x += xState;
 	}
 	xHorizontal = 0;
