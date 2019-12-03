@@ -9,3 +9,5 @@ jumpSpeed = -9;
 self.depth = -10;
 
 image_speed = 0;
+
+
