@@ -55,10 +55,18 @@
             }
         },
         {
+            "Key": "0f2e0346-c87e-4495-b347-dde6c78488d3",
+            "Value": {
+                "id": "a2a0f5ab-4a9c-40e3-8acd-33217770ca60",
+                "resourcePath": "rooms\/room4\/room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "10057755-039d-43d1-a9bf-60d37b007412",
             "Value": {
                 "id": "ad543332-d7bc-44e9-b40f-3583bba3188f",
-                "resourcePath": "timelines\\Snowflake\\Snowflake.yy",
+                "resourcePath": "timelines\/Snowflake\/Snowflake.yy",
                 "resourceType": "GMTimeline"
             }
         },
@@ -74,7 +82,7 @@
             "Key": "133e5687-45bd-4db1-8e46-c27cf4332cab",
             "Value": {
                 "id": "a22ed95d-4ee7-486d-90d1-291973cf6621",
-                "resourcePath": "scripts\\GoLevelRoom\\GoLevelRoom.yy",
+                "resourcePath": "scripts\/GoLevelRoom\/GoLevelRoom.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "3d894a04-670b-458f-9529-4d64a7f22ba9",
+            "Value": {
+                "id": "6e48feb5-75de-4a83-a5cb-e159c0a03637",
+                "resourcePath": "rooms\/winRoom\/winRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "402635fa-8fca-41ff-a9a4-d95456fc5474",
             "Value": {
                 "id": "379f7dc3-0f2d-4bc1-aa27-b79d6469fffe",
@@ -250,7 +266,7 @@
             "Key": "407bb8c0-044e-4fec-8884-bade04e7c81e",
             "Value": {
                 "id": "493d5c89-77ac-4ae6-ae04-58c800f9bc53",
-                "resourcePath": "paths\\PathAbout\\PathAbout.yy",
+                "resourcePath": "paths\/PathAbout\/PathAbout.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -343,6 +359,14 @@
             }
         },
         {
+            "Key": "506e7b79-dff3-4e98-ba98-4406c15f32a8",
+            "Value": {
+                "id": "67e09aaf-56d3-45d3-ae31-e9d722b0017e",
+                "resourcePath": "objects\/oKidsWin\/oKidsWin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50970084-dcb4-4787-a11b-9cda758cd7b6",
             "Value": {
                 "id": "b652723f-fb4e-4b50-80d6-a35c94e4cba5",
@@ -391,6 +415,14 @@
             }
         },
         {
+            "Key": "5cf044d1-4622-46c7-afd3-e4c82a750ee1",
+            "Value": {
+                "id": "57c77efc-b733-4f0f-977b-875bac1a2b56",
+                "resourcePath": "sprites\/spBonusGift\/spBonusGift.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e580930-fe55-465c-a16c-932a403535d3",
             "Value": {
                 "id": "4b900bf8-3ec0-44cd-9f1d-3dcfc6c2fdb5",
@@ -420,6 +452,14 @@
                 "id": "ec3d43e9-0ac0-45a4-8a7d-4d2de58a50d4",
                 "resourcePath": "scripts\/MainMenu\/MainMenu.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "65cb1756-7c7f-42ae-9843-d196e0893087",
+            "Value": {
+                "id": "e3ca7127-3d92-49a5-b299-e0bc1dbbc9dd",
+                "resourcePath": "sprites\/spGameWinBackground\/spGameWinBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -516,6 +556,14 @@
                 "id": "c9688edf-bf35-46a3-bdcf-a1203dd2dfef",
                 "resourcePath": "sprites\/spAboutRing\/spAboutRing.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7cddb5bb-8f40-48f1-a549-34bf4ddd0f70",
+            "Value": {
+                "id": "8de65ec2-ca5a-4be0-b12b-5b489c34030b",
+                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -618,7 +666,7 @@
             "Key": "8bd070ff-aa2a-4270-8838-6c97a526e72f",
             "Value": {
                 "id": "c4ec4c79-1f3c-45ed-b845-c40b46b93e90",
-                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourcePath": "rooms\/room2\/room2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -643,6 +691,14 @@
             "Value": {
                 "id": "44fd3632-c34e-44ed-809a-42be9128ee6b",
                 "resourcePath": "sprites\/spPassage\/spPassage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93bbc024-d702-45f2-ba1e-d42d06f63296",
+            "Value": {
+                "id": "282b6b1f-011d-48fb-a93b-afa7867bed96",
+                "resourcePath": "sprites\/spGameOver1\/spGameOver1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -719,6 +775,14 @@
             }
         },
         {
+            "Key": "b2e78e9f-927c-41f9-bf9a-5043c3db45b0",
+            "Value": {
+                "id": "0d85c1d1-f6fd-429f-ab66-02fd70dc5fe9",
+                "resourcePath": "sprites\/spGameWinKids\/spGameWinKids.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b40682d6-2dcd-44f3-b9d7-289b356888fd",
             "Value": {
                 "id": "306e6d82-a8b7-4132-a49a-f9b9199deb46",
@@ -746,7 +810,7 @@
             "Key": "b99ebb84-e773-4a94-bb04-bda6f3a7fb47",
             "Value": {
                 "id": "7276155b-5554-40d6-8573-b50838417a48",
-                "resourcePath": "rooms\/room2\/room2.yy",
+                "resourcePath": "rooms\/room3\/room3.yy",
                 "resourceType": "GMRoom"
             }
         },
