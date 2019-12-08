@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-xcount = 200;
-ycount = 100;
+xcount = 600;
+ycount = 200;
 step = 2;
