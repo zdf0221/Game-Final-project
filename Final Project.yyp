@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0e847979-0182-4b73-abb0-eb17a60fc272",
+            "Value": {
+                "id": "00627fda-61d5-4f7f-8d5b-4dcd338a36ee",
+                "resourcePath": "objects\/oLeft\/oLeft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0f2e0346-c87e-4495-b347-dde6c78488d3",
             "Value": {
                 "id": "a2a0f5ab-4a9c-40e3-8acd-33217770ca60",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "12c807c8-6c34-4409-9570-faf309c3df52",
+            "Value": {
+                "id": "00e18110-5358-4d36-9d28-e069c887d80f",
+                "resourcePath": "objects\/oRight\/oRight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "133e5687-45bd-4db1-8e46-c27cf4332cab",
             "Value": {
                 "id": "a22ed95d-4ee7-486d-90d1-291973cf6621",
@@ -116,6 +132,14 @@
                 "id": "ed5303ca-208b-4083-bd41-ac8cae5ee6a2",
                 "resourcePath": "sprites\/spEarth4\/spEarth4.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "190191b6-2093-4301-abed-531460264924",
+            "Value": {
+                "id": "6b1ebcd5-236a-4c66-9228-cac23dfbf223",
+                "resourcePath": "objects\/oUp\/oUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -607,6 +631,14 @@
             }
         },
         {
+            "Key": "717809f5-06a0-41f2-8016-3755d0194cc5",
+            "Value": {
+                "id": "21986274-ebe2-4f01-a702-908a742ce6f4",
+                "resourcePath": "objects\/oDown\/oDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7223feee-e4ef-450a-a0c3-0569d37e75d0",
             "Value": {
                 "id": "bfec19f5-46e7-462a-993d-fd985b038fae",
@@ -827,6 +859,14 @@
             "Value": {
                 "id": "a1a8a33d-79e5-43a4-a6bd-3f1f6fd98a9a",
                 "resourcePath": "objects\/oController\/oController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6a083ba-870f-47f7-a7f0-e0a6314ca40d",
+            "Value": {
+                "id": "fb320456-7817-41ec-8205-86ffca83d99d",
+                "resourcePath": "objects\/oJump\/oJump.yy",
                 "resourceType": "GMObject"
             }
         },
