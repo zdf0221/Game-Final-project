@@ -5,7 +5,7 @@ if(gamePaused == 0) {
 	var vx = camera_get_view_x(view_camera[0]);
 	var vy = camera_get_view_y(view_camera[0]);
 	gamePaused = 1;
-	menuButton = instance_create_depth(vx+716, vy+314, 0, oButton);
+	menuButton = instance_create_depth(vx+716, vy+314, -1, oButton);
 	menuButton.buttonText = "Menu";
 	menuButton.onClickAction = MainMenu;
 	restartButton = instance_create_depth(vx+716, vy+414, -1, oButton);
