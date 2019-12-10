@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "4811516e-ded4-4581-90da-d2bd782d1099",
+            "Value": {
+                "id": "954167ce-3fdb-45c3-bd8a-e9bc152b7310",
+                "resourcePath": "sprites\/spDelievered\/spDelievered.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4951d145-b297-498a-a369-1caa54ed20dc",
             "Value": {
                 "id": "e317dffa-deed-4d86-97db-cccf0348f888",
@@ -778,7 +786,7 @@
             "Key": "93bbc024-d702-45f2-ba1e-d42d06f63296",
             "Value": {
                 "id": "282b6b1f-011d-48fb-a93b-afa7867bed96",
-                "resourcePath": "sprites\/spGameOver1\/spGameOver1.yy",
+                "resourcePath": "sprites\/spWin\/spWin.yy",
                 "resourceType": "GMSprite"
             }
         },
