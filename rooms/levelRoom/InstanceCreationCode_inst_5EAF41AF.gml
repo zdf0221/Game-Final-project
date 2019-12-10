@@ -1,1 +1,1 @@
-flagName = spLevel2Flag
+flagName = spLevel7Flag

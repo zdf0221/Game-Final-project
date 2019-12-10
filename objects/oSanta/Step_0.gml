@@ -4,15 +4,18 @@
 // You can write your code in this editor
 
 globalvar key_left;
-key_left = keyboard_check(vk_left);
+key_left = keyboard_check(vk_left) or left_clicked;
 globalvar key_right;
-key_right = keyboard_check(vk_right);
+key_right = keyboard_check(vk_right) or right_clicked;
+
 globalvar key_jump;
-key_jump = keyboard_check_pressed(vk_space);
+key_jump = keyboard_check_pressed(vk_space) or jump_clicked;
+//show_debug_message(key_jump);
+
 globalvar key_climb;
-key_climb = keyboard_check(vk_up);
+key_climb = keyboard_check(vk_up) or climb_clicked;
 globalvar key_climb_down;
-key_climb_down = keyboard_check(vk_down);
+key_climb_down = keyboard_check(vk_down) or down_clicked;
 
 var jumpable = 0;
 var climbable = 0;
@@ -68,9 +71,11 @@ if(place_meeting(x + xHorizontal, y, oPassage)) {
 
 x += xHorizontal;
 
-if(jumpable && key_jump) 
+if(jumpable && key_jump) {
 	ySpeed = jumpSpeed;
-	
+	show_debug_message("jumped!");
+}
+
 if (climbable && key_climb) {
 	climbing = 1;
 	self.image_index = 2;

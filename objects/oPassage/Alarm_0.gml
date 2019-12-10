@@ -10,7 +10,10 @@
 		if(startRun == true){
 			image_alpha -= value;
 			if(image_alpha < 0.25){
-				instance_destroy(self)
+				startRun = false;
+				image_alpha = 1;
+				instance_deactivate_object(self);
+				//instance_destroy(self)
 			}
 		}
 }
