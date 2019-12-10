@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-x = camera_get_view_x(view_camera[0]) + 900;
+x = camera_get_view_x(view_camera[0]) + 1600;
 y = 50;
 
 if(gamePaused == 0) {

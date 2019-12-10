@@ -16,6 +16,8 @@ for(dev=0;dev<5;dev+=1)
 }
 if(leftPressed == 1){
 	image_index = 1;
+	left_clicked = true;
 } else {
 	image_index = 0;
+	left_clicked = false;
 }
