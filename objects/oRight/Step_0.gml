@@ -17,6 +17,8 @@ for(dev=0;dev<5;dev+=1)
 }
 if(leftPressed == 1){
 	image_index = 1;
+	right_clicked = true;
 } else {
 	image_index = 0;
+	right_clicked = false;
 }
