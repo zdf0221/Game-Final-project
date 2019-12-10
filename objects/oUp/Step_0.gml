@@ -21,8 +21,3 @@ if(leftPressed == 1){
 	image_index = 0;
 	climb_clicked = false;
 }
-
-var vx = camera_get_view_x(view_camera[0]);
-var vy = camera_get_view_y(view_camera[0]);
-x = vx+258
-y = vy+610
