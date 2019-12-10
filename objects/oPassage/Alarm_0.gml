@@ -9,7 +9,7 @@
 		}
 		if(startRun == true){
 			image_alpha -= value;
-			if(image_alpha < 0.25){
+			if(image_alpha < 0.01){
 				startRun = false;
 				image_alpha = 1;
 				instance_deactivate_object(self);
