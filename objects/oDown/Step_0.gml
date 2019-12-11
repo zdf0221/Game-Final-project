@@ -19,10 +19,10 @@ if(leftPressed == 1){
 	down_clicked = true;
 } else {
 	image_index = 0;
-	down_clicked = true;
+	down_clicked = false;
 }
 
 var vx = camera_get_view_x(view_camera[0]);
 var vy = camera_get_view_y(view_camera[0]);
-x = vx+258
+x = vx+255
 y = vy+725

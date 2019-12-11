@@ -24,5 +24,5 @@ if(leftPressed == 1){
 
 var vx = camera_get_view_x(view_camera[0]);
 var vy = camera_get_view_y(view_camera[0]);
-x = vx+258
-y = vy+610
+x = vx+255
+y = vy+608
