@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_play_sound(Clicked, 10, false);
+
 if(gamePaused == 0) {
 	instance_deactivate_all(true);
 	var vx = camera_get_view_x(view_camera[0]);

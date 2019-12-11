@@ -2,7 +2,7 @@
 {
     "name": "winRoom",
     "id": "3d894a04-670b-458f-9529-4d64a7f22ba9",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
