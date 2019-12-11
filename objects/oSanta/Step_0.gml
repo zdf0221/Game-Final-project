@@ -17,13 +17,25 @@ key_climb = keyboard_check(vk_up) or climb_clicked;
 globalvar key_climb_down;
 key_climb_down = keyboard_check(vk_down) or down_clicked;
 
+globalvar xState;// -1 for left. 1 for right. 0 for no moves on x-axis.
+xState = key_right - key_left;
+
 var jumpable = 0;
 var climbable = 0;
 var climbing = 0;
 
-if(place_meeting(x, y + 1, oSurface) or place_meeting(x, y + 1, oPassage)) 
+if(place_meeting(x, y + 1, oSurface) or place_meeting(x, y + 1, oPassage)) {
+	switch (xState) {
+	case 1:
+		effect_create_above(ef_smoke, x, y + 70, 0, c_white);
+		break;
+	case -1:
+		effect_create_above(ef_smoke, x + 55, y + 70, 0, c_white);
+		break;
+	}
 	jumpable = 1;
-
+}
+	
 if(place_meeting(x, y + 1, oStair1)) 
 	climbable = 1;
 
@@ -40,9 +52,7 @@ else {
 	walkSpeed = 5;
 }
 
-globalvar xState;// -1 for left. 1 for right. 0 for no moves on x-axis.
 
-xState = key_right - key_left;
 if (xState == -1) {
 	image_index = 1;
 }
@@ -113,3 +123,5 @@ if (y > 800) {
 	instance_destroy(self);
 	respawn();
 }
+
+effect_create_below(ef_snow, x, y, 0, c_white);
