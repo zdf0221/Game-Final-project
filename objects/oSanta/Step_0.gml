@@ -40,6 +40,7 @@ if(place_meeting(x, y + 1, oStair1))
 	climbable = 1;
 
 if(place_meeting(x, y + 1, oTrap)) {
+	audio_play_sound(Death, 10, false);
 	effect_create_above(ef_explosion, x, y, 1, c_red); // explosion
 	oController.time_remains -= 10;
 	ySpeed = -12;
