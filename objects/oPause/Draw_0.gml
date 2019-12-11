@@ -3,7 +3,7 @@
 
 
 x = camera_get_view_x(view_camera[0]) + 1600;
-y = 50;
+y = 16;
 
 if(gamePaused == 0) {
 	draw_sprite(sPause, 0, x, y);
