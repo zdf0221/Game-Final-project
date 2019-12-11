@@ -29,7 +29,7 @@ if(place_meeting(x, y + 1, oStair1))
 
 if(place_meeting(x, y + 1, oTrap)) {
 	effect_create_above(ef_explosion, x, y, 1, c_red); // explosion
-	time_remains -= 10;
+	oController.time_remains -= 10;
 	ySpeed = -12;
 }
 
