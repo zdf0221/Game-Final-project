@@ -23,5 +23,6 @@ else {
 	instance_destroy(restartButton); 
 	instance_destroy(quitButton);
 	instance_activate_all();
+	oController.reactive = true
 	gamePaused = 0;
 }
