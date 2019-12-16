@@ -1,1 +1,1 @@
-spNum = 0
+roomName = rT3

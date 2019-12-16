@@ -1,1 +1,1 @@
-spNum = 6
+spNum = 10

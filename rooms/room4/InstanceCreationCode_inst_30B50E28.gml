@@ -1,1 +1,1 @@
-timeLimit = true
+spNum = 0;

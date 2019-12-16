@@ -1,1 +1,1 @@
-spNum = 4
+spNum = 0;

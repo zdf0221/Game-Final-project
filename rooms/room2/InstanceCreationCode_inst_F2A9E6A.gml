@@ -1,1 +1,1 @@
-spNum = 9
+spNum = 6;

@@ -1,1 +1,1 @@
-spNum = 0
+autoUp = true
